@@ -1,3 +1,3 @@
 # dolce-vita
 
-h2 primer proyecto real
+Pagina simple estilo corporativa para un comercio de fabricación, venta y reparto de tortas y postres.
