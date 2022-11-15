@@ -1,7 +1,7 @@
 import React from "react";
 
-import { Header } from "./components/Header";
-import { Principal } from "./components/Principal";
+import { Header } from "./layout/Header";
+import { Principal } from "./layout/Principal";
 
 
 export default function App() {
